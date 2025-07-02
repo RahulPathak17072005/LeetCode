@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulPathak17072005/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
