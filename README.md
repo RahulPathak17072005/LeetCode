@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0415-add-strings](https://github.com/RahulPathak17072005/LeetCode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RahulPathak17072005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Combinatorics
 |  |
 | ------- |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/RahulPathak17072005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
