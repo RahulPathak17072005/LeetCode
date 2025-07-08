@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/RahulPathak17072005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
