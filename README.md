@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/RahulPathak17072005/LeetCode/tree/master/0415-add-strings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 ## Counting Sort
 |  |
 | ------- |
