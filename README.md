@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulPathak17072005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RahulPathak17072005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0242-valid-anagram) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulPathak17072005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
