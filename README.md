@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
