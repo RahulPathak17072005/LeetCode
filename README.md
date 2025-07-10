@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RahulPathak17072005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RahulPathak17072005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0171-excel-sheet-column-number) |
