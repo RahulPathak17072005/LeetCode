@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0542-01-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulPathak17072005/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -181,16 +182,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulPathak17072005/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RahulPathak17072005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Union Find
 |  |
