@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RahulPathak17072005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RahulPathak17072005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulPathak17072005/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RahulPathak17072005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RahulPathak17072005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
