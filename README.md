@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RahulPathak17072005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulPathak17072005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0792-binary-search) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -271,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulPathak17072005/LeetCode/tree/master/0011-container-with-most-water) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
