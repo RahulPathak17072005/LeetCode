@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RahulPathak17072005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0542-01-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RahulPathak17072005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RahulPathak17072005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/RahulPathak17072005/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulPathak17072005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulPathak17072005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulPathak17072005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RahulPathak17072005/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
