@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RahulPathak17072005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RahulPathak17072005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RahulPathak17072005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
