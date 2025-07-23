@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RahulPathak17072005/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RahulPathak17072005/LeetCode/tree/master/0739-daily-temperatures) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RahulPathak17072005/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RahulPathak17072005/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Simulation
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulPathak17072005/LeetCode/tree/master/0011-container-with-most-water) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RahulPathak17072005/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Linked List
 |  |
