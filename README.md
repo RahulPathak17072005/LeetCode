@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RahulPathak17072005/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RahulPathak17072005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
