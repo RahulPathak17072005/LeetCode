@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RahulPathak17072005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RahulPathak17072005/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Bit Manipulation
 |  |
 | ------- |
