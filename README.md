@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulPathak17072005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulPathak17072005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RahulPathak17072005/LeetCode/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulPathak17072005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/RahulPathak17072005/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
