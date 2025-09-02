@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/RahulPathak17072005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RahulPathak17072005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/RahulPathak17072005/LeetCode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RahulPathak17072005/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
 | ------- |
