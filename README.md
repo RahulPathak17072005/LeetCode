@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3830-find-closest-person](https://github.com/RahulPathak17072005/LeetCode/tree/master/3830-find-closest-person) |
 ## Combinatorics
 |  |
 | ------- |
