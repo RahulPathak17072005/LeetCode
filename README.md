@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RahulPathak17072005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RahulPathak17072005/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/RahulPathak17072005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
