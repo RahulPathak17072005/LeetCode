@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RahulPathak17072005/LeetCode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/RahulPathak17072005/LeetCode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RahulPathak17072005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3055-maximum-odd-binary-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RahulPathak17072005/LeetCode/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
