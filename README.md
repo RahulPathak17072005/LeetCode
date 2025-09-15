@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RahulPathak17072005/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahulPathak17072005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RahulPathak17072005/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RahulPathak17072005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/RahulPathak17072005/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/RahulPathak17072005/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
