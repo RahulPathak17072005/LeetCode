@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/RahulPathak17072005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulPathak17072005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0542-01-matrix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RahulPathak17072005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RahulPathak17072005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RahulPathak17072005/LeetCode/tree/master/0204-count-primes) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RahulPathak17072005/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
