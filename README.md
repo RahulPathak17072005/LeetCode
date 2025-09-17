@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/RahulPathak17072005/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3055-maximum-odd-binary-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3373-maximum-prime-difference](https://github.com/RahulPathak17072005/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/RahulPathak17072005/LeetCode/tree/master/3830-find-closest-person) |
 ## Combinatorics
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RahulPathak17072005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3055-maximum-odd-binary-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
@@ -407,4 +409,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
