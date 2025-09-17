@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/RahulPathak17072005/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RahulPathak17072005/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulPathak17072005/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/RahulPathak17072005/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RahulPathak17072005/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3055-maximum-odd-binary-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulPathak17072005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2551-apply-operations-to-an-array) |
