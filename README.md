@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RahulPathak17072005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RahulPathak17072005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RahulPathak17072005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/RahulPathak17072005/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulPathak17072005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/RahulPathak17072005/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RahulPathak17072005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RahulPathak17072005/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/RahulPathak17072005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RahulPathak17072005/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/RahulPathak17072005/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulPathak17072005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/RahulPathak17072005/LeetCode/tree/master/0165-compare-version-numbers) |
