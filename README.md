@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/RahulPathak17072005/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/RahulPathak17072005/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/RahulPathak17072005/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RahulPathak17072005/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulPathak17072005/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/RahulPathak17072005/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RahulPathak17072005/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/RahulPathak17072005/LeetCode/tree/master/1813-maximum-erasure-value) |
