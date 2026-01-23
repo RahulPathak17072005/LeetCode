@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RahulPathak17072005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/RahulPathak17072005/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/RahulPathak17072005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/RahulPathak17072005/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0729-my-calendar-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulPathak17072005/LeetCode/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RahulPathak17072005/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RahulPathak17072005/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RahulPathak17072005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulPathak17072005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RahulPathak17072005/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulPathak17072005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RahulPathak17072005/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulPathak17072005/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/RahulPathak17072005/LeetCode/tree/master/1813-maximum-erasure-value) |
